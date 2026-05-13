@@ -1,4 +1,4 @@
-# 
+# custom Trading Bot for auto-leverage trading bot | trailing-stop & slippage-control is the best auto-leverage trading bot, featuring trailing-stop and slippage-control. Smart,
 
 
 
